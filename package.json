@@ -4,6 +4,10 @@
     "description": "Jamesabity's theme",
     "version": "0.0.1",
     "publisher": "Jamesability",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jgeiger2/jamesability-dark"
+    },
     "engines": {
         "vscode": "^1.66.0"
     },
