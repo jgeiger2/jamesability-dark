@@ -1,0 +1,22 @@
+{
+    "name": "jamesability-dark",
+    "displayName": "JamesAbility Dark",
+    "description": "Jamesabity's theme",
+    "version": "0.0.1",
+    "publisher": "Jamesability",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "JamesAbility Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/JamesAbility Dark-color-theme.json"
+            }
+        ]
+    }
+}
