@@ -5,9 +5,10 @@
 		"editor.foreground": "#63c6f4",
 		"activityBarBadge.background": "#05021c",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBar.background": "#020014",
+		"sideBar.background": "#050035",
 		"titleBar.activeBackground": "#020014",
 		"statusBar.background": "#002917",
+		"editorWhitespace.foreground": "#22ff00d6"
 		
 	},
 	"tokenColors": [
@@ -29,7 +30,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#2cb1b1"
+				"foreground": "#17f2f2"
 			}
 		},
 		{
@@ -48,7 +49,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#7c0b1e46"
+				"foreground": "#cb0426"
 			}
 		},
 		{
@@ -429,7 +430,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#8ad11f"
 			}
 		},
 		{
@@ -627,6 +628,6 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		}
+		},
 	]
 }

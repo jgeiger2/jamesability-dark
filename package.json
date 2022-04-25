@@ -2,8 +2,8 @@
     "name": "jamesability-dark",
     "displayName": "JamesAbility Dark",
     "description": "Jamesabity's theme",
-    "version": "0.0.1",
-    "publisher": "jgeiger2",
+    "version": "0.0.2",
+    "publisher": "jamesability",
     "repository": {
         "type": "git",
         "url": "https://github.com/jgeiger2/jamesability-dark"
